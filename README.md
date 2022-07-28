@@ -4,9 +4,9 @@ I'm Prashant Kumar and have experienced working in Data Analysis, Software Devel
 
 I also love working with different technologies & platforms and my current favorite ones are
 
-❤️ SQL / PostgreSQL / MySQL
-❤️ Python
-❤️ Tableau/PowerBi
+   ❤️ SQL / PostgreSQL / MySQL
+   ❤️ Python
+   ❤️ Tableau/PowerBi
 
 <!---
 prashantkumar6/prashantkumar6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
